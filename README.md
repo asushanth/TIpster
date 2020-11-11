@@ -34,7 +34,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had some difficulty with figuring out how to commit and push my project to github, but with more practice I was able to figure it out.
 
 ## License
 
